@@ -9,7 +9,7 @@ or in docker-compose:
 ```
 version: "3"
 services:
-  duc:
+  eti-syncvm:
     image: fensoft/eti-syncvm:1.1
     container_name: eti-syncvm
     ports:
